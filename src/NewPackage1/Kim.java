@@ -1,5 +1,6 @@
 package NewPackage1;
 
-public class NewClass1 {
+public class Kim {
 
 }
+ 
